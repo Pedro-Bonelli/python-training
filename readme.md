@@ -1,20 +1,21 @@
-# Exercícios em Python
+# Exercícios iniciais em Python
 
-Este repositório contém meus exercícios e projetos realizados durante meu aprendizado de programação em Python. O objetivo é organizar e compartilhar os códigos que desenvolvo enquanto estudo a linguagem, abordando diferentes conceitos e desafios.
+Repositório pequeno de prática em Python com `ex1.py` e `ex2.py`. O primeiro exercício lê dois números e imprime a soma.
 
-## Estrutura do Repositório
+## Estrutura
 
-- Cada exercício ou projeto estará em um arquivo Python separado (.py).
-- Os arquivos são organizados por tema ou tipo de exercício.
+- `ex1.py` e `ex2.py`: exercícios independentes.
 
-## Como Contribuir
+## Como executar
 
-Se você quiser contribuir com sugestões ou melhorias para os meus códigos, fique à vontade para abrir uma "Issue" ou enviar um "Pull Request" com suas sugestões.
+Requisito: Python.
 
-## Como Rodar os Códigos
+```bash
+git clone https://github.com/Pedro-Bonelli/python-training.git
+cd python-training
+python ex1.py
+```
 
-Para rodar qualquer um dos arquivos Python, basta clonar este repositório e executar o arquivo desejado localmente. Para isso, siga os passos abaixo:
+## Observações
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/Pedro-Bonelli/python-training.git
+Execute cada arquivo separadamente no terminal; não há dependências externas identificadas na raiz.
